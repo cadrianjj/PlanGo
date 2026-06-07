@@ -1,3 +1,19 @@
+# 🚀 PlanGo 旅享家 (Hackathon Submission)
+
+**An AI Lifestyle Concierge that plans, routes, and executes real-world bookings.**
+
+## 📖 Design Document
+[Paste the 2-page design document here]
+
+## 🛠️ How to Run the Web UI
+1. `npm install`
+2. `npm run dev`
+3. Open `http://localhost:3000`
+
+## 🤖 How to Run the Agent Mock API
+To see the Python Multi-Agent logic and fallback handling in action:
+1. `python agent-demo.py`
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
